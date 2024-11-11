@@ -4,7 +4,7 @@
 
 If you are a student in Computer Science 403 (Computer Security), you may use
 this template to request that the course instructor re-assess your work by
-agreeing to "pay" one of the **three tokens** that you were given at the start
+agreeing to "pay" one of the **two tokens** that you were given at the start
 of the semester. You must adhere to these regulations when using this form to
 submit a request for your work to be reassessed by "paying" a token.
 
@@ -18,7 +18,7 @@ carefully read and understood all of the points in the form.
 
 ## Token Use Regulations
 
-1) Each student starts out with a total of three (3) tokens when the academic
+1) Each student starts out with a total of two (2) tokens when the academic
 semester starts. Students can only submit this form if they have at least one
 token that they can "spend" in order to "pay for" the reassessment of their
 work.
@@ -38,17 +38,15 @@ opportunity. Students should not fill out this form without including a valid
 URL that points to the GitHub repository that contains the work for which they
 are requesting reassessment through the "spending" of a token. This is an
 example of a correct URL of a GitHub repository:
-`https://github.com/Allegheny-Computer-Science-403-F2024/computer-science-403-fall-2024-executable-examination-one-gkapfham`.
+`https://github.com/Allegheny-Computer-Science-403-F2024/computer-science-403-midterm-executable-examination-one-gkapfham`.
 Please note that you will not be able to click on and access the contents of
 this repository because it is private and thus not accessible to students in the
 course. Again, students who do not provide a correct URL to a GitHub repository
 will have their issue closed and their token spent.
 
-4) Students who complete this form so that they can "pay" a token for the
-opportunity to work on a module reflection repository acknowledge that they
-cannot cite the work that they completed in a team-based fashion during a
-different module of the course. Students may also not use a token to pay to
-revise a blog post that they wrote in a team-based fashion.
+4) Students may not use a token to pay to revise a presentation or a programming
+project that they created in a team-based fashion. For instance, this means that
+students cannot use a token to revise a security synapse project.
 
 5) Students who complete this form so that they can "pay" a token to finish
 missing work for a project must bear in mind that they must abide by the
